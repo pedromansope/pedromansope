@@ -1,6 +1,7 @@
 ## Olá, bem vindo(a) ao meu Github!
 - Pedro Manso
 - 🌱 I’m currently learning Python
+- 🌱 Learning Java - Bootcamp GFT #4 - Dio.me
 
 <div align="center">
   <a href="https://github.com/pedromansope">
