@@ -1,4 +1,4 @@
-## Olá, bem vindo(a) ao meu Github!
+## Olá, bem vindo(a) ao meu Github! - Welcome to my GitHub!
 - Pedro Manso
 - 🌱 I’m currently learning Python
 - 🌱 Learning Java - Bootcamp GFT #4 - Dio.me
