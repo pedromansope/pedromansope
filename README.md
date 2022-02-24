@@ -1,6 +1,6 @@
 ## Olá, bem vindo(a) ao meu Github! - Welcome to my GitHub!
 - Pedro Manso
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Django and REST.
 - 🌱 Learning Java - Bootcamp GFT #4 - Dio.me
 
 <div align="center">
