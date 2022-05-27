@@ -1,7 +1,7 @@
 ## Olá, bem vindo(a) ao meu Github! - Welcome to my GitHub!
 - Pedro Manso
-- 🌱 I’m currently learning Python, Django and REST.
-- 🌱 Learning Java - Bootcamp GFT #4 - Dio.me
+- 🌱 I’m currently learning JS, TS for mobile development;
+- 🌱 05.25.22 - Start as Junior Developer;
 
 <div align="center">
   <a href="https://github.com/pedromansope">
