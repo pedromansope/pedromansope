@@ -34,7 +34,7 @@
 
 <a href="https://github.com/pedromansope">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedromansope&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromansope&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromansope&theme=buefy&layout=compact&langs_count=7" />
 </a>
 
 <br/>
