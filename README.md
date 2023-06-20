@@ -5,8 +5,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying System Analysis on ETE PORTO DIGITAL, Recife.
-- 💼 &nbsp; Working as a Frontend Freelancer.
+- 🎓 &nbsp; Studying System Analysis and Development on Estácio, Recife.
+- 🎓 &nbsp; Studying Data Science on UNIFAEL.
+- 💼 &nbsp; Working as a Trainee on FUNDACENTRO.
 - 🌱 &nbsp; Learning more about Frontend tools and UI/UX Design.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
